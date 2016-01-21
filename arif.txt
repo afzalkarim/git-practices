@@ -1,0 +1,3 @@
+"i m writing in files" 
+"futher text"i 
+"third time text added"t 
